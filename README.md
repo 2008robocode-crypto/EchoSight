@@ -1,7 +1,7 @@
 # EchoSight 👁️🔊
 ### Real-Time Spatial Audio & Multi-Modal Vision Co-Pilot for the Visually Impaired
 **Submitted for the Meta Global AI Developer Hackathon 2026**  
-*Theme: Build for Your World | Track: Indie / Startup*
+*Theme: Build for Your World
 Test link: https://2008robocode-crypto.github.io/EchoSight/
 
 ---
